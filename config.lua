@@ -1,6 +1,6 @@
 Config = {}
 
-Config.UseTarget = false -- Use qb-target interactions (don't change this, go to your server.cfg and add `setr UseTarget true` to use this and just that from true to false or the other way around)
+Config.UseTarget = GetConvar('UseTarget', 'false') == 'true -- Use qb-target interactions (don't change this, go to your server.cfg and add `setr UseTarget true` to use this and just that from true to false or the other way around)
 
 Config.VendingObjects = {
     "prop_vend_soda_01",
@@ -325,7 +325,7 @@ Config.AttachmentCrafting = {
     }
 }
 
-MaxInventorySlots = 40
+MaxInventorySlots = 41
 
 BackEngineVehicles = {
     [`ninef`] = true,
