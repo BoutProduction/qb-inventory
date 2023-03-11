@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/127620206/224503455-d8e085d3-e82b-407e-adbb-1260ffd7966c.png)
+
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-logs](https://github.com/qbcore-framework/qb-logs) - For logging transfer and other history
@@ -8,13 +8,7 @@
 - [qb-shops](https://github.com/qbcore-framework/qb-shops) - Needed in order to add shops
 
 ## Screenshots
-![General](https://i.imgur.com/GR0MDFN.png)
-![ID Card](https://i.imgur.com/C6gAOWi.png)
-![Weapon](https://i.imgur.com/RbCvHJb.png)
-![Shop](https://i.imgur.com/7Da7UEX.png)
-![Crafting](https://i.imgur.com/peONaL9.png)
-![Glovebox](https://i.imgur.com/LjDEYWa.png)
-![Trunk](https://i.imgur.com/IoGYZbv.png)
+![General](https://user-images.githubusercontent.com/127620206/224503455-d8e085d3-e82b-407e-adbb-1260ffd7966c.png)
 
 ## Features
 - Item crafting
