@@ -11,8 +11,6 @@
 ![General](https://user-images.githubusercontent.com/127620206/224503455-d8e085d3-e82b-407e-adbb-1260ffd7966c.png)
 
 ## Features
-- Item crafting
-- Weapon attachment crafting
 - Stashes (Personal and/or Shared)
 - Vehicle Trunk & Glovebox
 - Weapon serial number
@@ -20,7 +18,6 @@
 - Item Drops
 
 ## Installation
-### Manual
 - Download the script and put it in the `[qb]` directory.
 - Import `qb-inventory.sql` in your database
 - Add the following code to your server.cfg/resouces.cfg
